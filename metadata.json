@@ -1,0 +1,7 @@
+{
+  "name": "Estate Estimate",
+  "description": "A smart real estate price prediction and navigation tool for properties across Karnataka, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
